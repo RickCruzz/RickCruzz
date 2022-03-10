@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RickCruzz
+- 👋 Hi, I’m @RickCruzz, an Scuba Instructor by PADI, now trying to dive in Data Lakes.
 - 👀 I’m interested in Data in General, pipelines, data lakes and TONS OF INFO
-- 🌱 I’m currently learning python, aws and linux (POP_OS!)
+- 🌱 I’m currently learning python, aws and linux with POP_OS!
 - 💞️ I’m looking to collaborate on Open source projects so we can make the world better and save the oceans <3
 - 📫 How to reach me henrique.cruzz@gmail.com
 
